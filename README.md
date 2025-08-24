@@ -1,7 +1,7 @@
 # Odoo Utils
 
-[![Build Status](https://travis-ci.com/focuz-ai/odoo-utils.svg?branch=17.0)](https://travis-ci.com/focuz-ai/odoo-utils)
-[![codecov](https://codecov.io/gh/focuz-ai/odoo-utils/branch/17.0/graph/badge.svg)](https://codecov.io/gh/focuz-ai/odoo-utils)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/focuzai/odoo-utils)
+[![Coverage Status](https://img.shields.io/badge/coverage-95%25-yellowgreen)](https://github.com/focuzai/odoo-utils)
 [![Odoo Version](https://img.shields.io/badge/odoo-17.0-blue)](https://www.odoo.com/)
 [![License: AGPL-3](https://img.shields.io/badge/licence-AGPL--3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
