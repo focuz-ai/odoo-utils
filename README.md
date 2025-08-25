@@ -1,7 +1,7 @@
 # Odoo Utils
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/focuzai/odoo-utils)
-[![Coverage Status](https://img.shields.io/badge/coverage-95%25-yellowgreen)](https://github.com/focuzai/odoo-utils)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/focuz-ai/odoo-utils)
+[![Coverage Status](https://img.shields.io/badge/coverage-95%25-yellowgreen)](https://github.com/focuz-ai/odoo-utils)
 [![Odoo Version](https://img.shields.io/badge/odoo-17.0-blue)](https://www.odoo.com/)
 [![License: AGPL-3](https://img.shields.io/badge/licence-AGPL--3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
@@ -25,7 +25,7 @@ This repository contains utility modules for Odoo 17.0 that extend and enhance t
 
 1. Clone this repository into your Odoo addons directory:
 ```bash
-git clone https://github.com/focuzai/odoo-utils.git
+git clone https://github.com/focuz-ai/odoo-utils.git
 ```
 
 2. Update the addons list in Odoo:
@@ -98,7 +98,7 @@ Please check individual module README files for known issues and planned improve
 
 ## Bug Tracker
 
-Bugs are tracked on [GitHub Issues](https://github.com/focuzai/odoo-utils/issues).
+Bugs are tracked on [GitHub Issues](https://github.com/focuz-ai/odoo-utils/issues).
 In case of trouble, please check there if your issue has already been reported.
 
 ## Credits
@@ -125,7 +125,7 @@ In case of trouble, please check there if your issue has already been reported.
 
 This repository is maintained by Focuz AI.
 
-To contribute to this project, please visit our [GitHub repository](https://github.com/focuzai/odoo-utils).
+To contribute to this project, please visit our [GitHub repository](https://github.com/focuz-ai/odoo-utils).
 
 ## License
 
