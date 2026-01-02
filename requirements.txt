@@ -1,1 +1,1 @@
-openupgradelib
+openupgradelib>=3.12.0,<4.0.0 ; python_version >= '3.10'
